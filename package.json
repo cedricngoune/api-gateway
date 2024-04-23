@@ -1,5 +1,5 @@
 {
-  "name": "1-api-gateway",
+  "name": "api-gateway",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -17,8 +17,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@cedricngoune/shared": "^0.0.5",
     "@elastic/elasticsearch": "^8.13.1",
-    "@cedricngoune/shared": "0.0.5",
     "axios": "^1.6.8",
     "bcrypt": "^5.1.1",
     "compression": "^1.7.4",
